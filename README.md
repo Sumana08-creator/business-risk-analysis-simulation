@@ -25,7 +25,8 @@ Small service businesses often have informal processes and limited documentation
    - Status (Open / In Progress / Mitigated / Reviewing)
 
 ## Key Output (Artifacts)
-- **Business Risk Register (PNG)**: [`Business_Risk_Register.png`](./Business_Risk_Register.png)
+ - **Business Risk Register (PNG)**: [View the Simulated Business Risk Register](./Simulated_Business_Risk_Register.png)
+
 
 **Deliverables included**
 - Visual risk register (PNG)
