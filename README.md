@@ -1,4 +1,4 @@
-# Business Risk Register 
+# Business Risk Analysis
 ## Business, Governance & Health and Safety (IOSH-aligned)  
 **Case Study: Vagabond Photography Ltd**
 
