@@ -1,4 +1,4 @@
-# Business Risk Register (Simulated) — 2025  
+# Business Risk Register (Simulated) 
 ## Business, Governance & Health and Safety (IOSH-aligned)  
 **Case Study: Vagabond Photography Ltd**
 
